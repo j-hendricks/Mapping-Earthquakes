@@ -55,4 +55,3 @@ let myStyle = {
         }
     }).addTo(map);
 });
-
